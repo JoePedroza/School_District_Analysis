@@ -22,12 +22,12 @@ Using bulleted lists and images of DataFrames as support, address the following 
 How is the district summary affected?
 ### District Summary
 
-![alt text](https://github.com/JoePedroza/School_District_Analysis/analysis/district_summary.png)
+![alt text](https://github.com/JoePedroza/School_District_Analysis/blob/main/analysis/size_summary.png)
 
 
 ### Per School Summary [head(5)]
 
-![alt text](https://github.com/JoePedroza/School_District_Analysis/analysis/per_school_summary.png) 
+![alt text](https://github.com/JoePedroza/School_District_Analysis/blob/main/analysis/per_school_summary.png) 
 
 
 How is the school summary affected?
@@ -37,23 +37,23 @@ How does replacing the ninth graders’ math and reading scores affect Thomas Hi
 ![alt text](https://github.com/JoePedroza/School_District_Analysis/analysis/per_school_summary.png) 
 
 How does replacing the ninth-grade scores affect the following:
-![alt text](https://github.com/JoePedroza/School_District_Analysis/analysis/top_performing_ascending.png) 
+![alt text](https://github.com/JoePedroza/School_District_Analysis/blob/main/analysis/top_performing_ascending.png) 
 
 
 Math and reading scores by grade
-![alt text](https://github.com/JoePedroza/School_District_Analysis/analysis/per_school_summary.png) 
+![alt text](https://github.com/JoePedroza/School_District_Analysis/blob/main/analysis/per_school_summary.png) 
 
 
 Scores by school spending
-![alt text](https://github.com/JoePedroza/School_District_Analysis/analysis/spending_summary.png) 
+![alt text](https://github.com/JoePedroza/School_District_Analysis/blob/main/analysis/spending_summary.png) 
 
 
 Scores by school size
-![alt text](https://github.com/JoePedroza/School_District_Analysis/analysis/size_summary.png) 
+![alt text](https://github.com/JoePedroza/School_District_Analysis/blob/main/analysis/size_summary.png) 
 
 
 Scores by school type
-![alt text](https://github.com/JoePedroza/School_District_Analysis/analysis/type_summary.png) 
+![alt text](https://github.com/JoePedroza/School_District_Analysis/blob/main/analysis/type_summary.png) 
 
 
 
