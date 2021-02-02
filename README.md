@@ -16,7 +16,7 @@ A City School System chief data scientist has given the following tasks to compl
 - Calculate the school performance based on the size of the school. 
 - Calculate the school performance based on the type of school. 
 
-##Results: 
+## Results: 
 Using bulleted lists and images of DataFrames as support, address the following questions.
 
 How is the district summary affected?
