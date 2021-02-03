@@ -14,7 +14,7 @@ A City School disrict would like to analyze grades for dishonesty reported at a 
 
 ## Resources 
 - Data Source : schools_complete.csv , students_complete.csv 
-- Tools : Python 3.7.6, Pandas, Jupyter Notebook 
+- Tools : Python 3.8.5, Pandas, Jupyter Notebook 
 
 ## Results: 
 
@@ -57,5 +57,5 @@ Scores by school type
 Charter schools have a significantly higher average overall and especially in math.  
 This may be due to the teacher student ratio for charter schools.  Teachers can focus more time per student and manage a smaller class size.
 
-##Summary: 
+## Summary: 
 Overall the changes in grades for Thomas High School increases the overall averages for schools belonging in the charter type.  The math score seems to be higher for all grade levels across the board for charter schools.  The higher the school budget doesn't neccesarily mean that the grade averages will be higher.  In fact, the grades per school size have a direct correlation to the budget.  The higher budget per student shows that the averages underperform the lower budget per student case.  
